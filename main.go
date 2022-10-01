@@ -176,7 +176,5 @@ func selezione2() {
 	if err != nil {
 		panic(err)
 	}
-
 	fmt.Printf("utentu found: %v\n", utenti)
-
 }
